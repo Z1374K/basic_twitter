@@ -1,0 +1,14 @@
+div {
+    padding:10px;
+    margin:10px auto;
+    border:2px solid #aaa;
+    background-color:#ddd; 
+}
+
+.dates {
+    font-size: 10px;
+}
+
+a {
+    color: hotpink;
+}
